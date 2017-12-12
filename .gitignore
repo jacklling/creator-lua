@@ -1,0 +1,12 @@
+/frameworks/cocos2d-x
+/runtime
+/simulator
+/test
+/frameworks/runtime-src/proj.android/obj
+/frameworks/runtime-src/proj.android/assets
+/frameworks/runtime-src/proj.android/bin
+/frameworks/runtime-src/proj.android/gen
+.vs/
+Debug.win32/
+proj.linux/
+res/
